@@ -19,4 +19,14 @@ The execution of this Problem is done in 2 ways:
 
 
 # ALGORITHM FOR THE CODE WITH IMPLEMENTATION OF AI ALGORITHMS:
-   
+IDENTITY ALGORITHM
+1. Create an empty list common_elements to store the common substrings.
+2. terate through the prompts, comparing each pair of adjacent prompts.
+3. For each pair, find the longest common substring between the end of the first prompt and the beginning of the second prompt.
+4. If the Longest Common Substring is not empty, add it to the common_elements list.
+
+CLASSICAL SEARCH ALGORITHM
+1. Initialize an empty string.
+2. Iterate through the common elements list in order.
+3. For each common substring, check if it is already present in the final word list.
+4. If it is not present, append the common substring to the final word list.
