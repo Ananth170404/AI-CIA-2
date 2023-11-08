@@ -18,7 +18,8 @@ The execution of this Problem is done in 2 ways:
 8. The final result is printed.
 
 # SAMPLE INPUT/OUTPUT FOR THE CODE WITHOUT IMPLMENTATION OF AI ALGORITHMS:
-Enter the number of 4-letter prompts: 6
+
+Enter the number of 4-letter prompts: 6\n
 Enter prompt 1: ABCD
 Enter prompt 2: SNU_
 Enter prompt 3: U_CH
