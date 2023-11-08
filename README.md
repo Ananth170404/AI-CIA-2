@@ -17,6 +17,20 @@ The execution of this Problem is done in 2 ways:
 7. The code joins the common substrings in the 'f' list and adds them to the first prompt and the last prompt to create the final result.
 8. The final result is printed.
 
+# SAMPLE INPUT/OUTPUT FOR THE CODE WITHOUT IMPLMENTATION OF AI ALGORITHMS:
+Enter the number of 4-letter prompts: 6
+Enter prompt 1: ABCD
+Enter prompt 2: SNU_
+Enter prompt 3: U_CH
+Enter prompt 4: CHEN
+Enter prompt 5: ENNA
+Enter prompt 6: NAI.
+
+
+Common Elements :  ['U_', 'CH', 'EN', 'NA']
+Final Word :  SNU_CHENNAI.
+Other Word :  ABCD
+
 
 # ALGORITHM FOR THE CODE WITH IMPLEMENTATION OF AI ALGORITHMS:
    
